@@ -10,9 +10,8 @@
 		"delta_item_x"			"0"
 		"delta_item_end_y"		"0"
 		"delta_lifetime"		"2"
-		"delta_item_font"		"DefaultLargerShadow" //"HudFontSmall"
-		"delta_item_font_big"	"DefaultLargerShadow" //"HudFontMedium"
-
+		"delta_item_font"		"HudFontMediumSmallBold"
+		"delta_item_font_big"	"HudFontMedium"
 	}
 	
 	"DamageAccountValue"
