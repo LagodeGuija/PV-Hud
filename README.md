@@ -10,6 +10,8 @@
 
 ## Changelog
 
+<div align="left">
+
 - Added speedometer to HudPlayerClass
 - Nudged PlayerStatusHealthValue to the right a few pixels because it covered the Killstreak counter in 1080p
 - Changed damage number font in HudDamageAccount
